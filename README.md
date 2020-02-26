@@ -15,7 +15,7 @@ Here is a list with the links of all the repositories needed for this proyect
 ## Important considerations
 For all the computations done in this modules, site1 and site2 should be consistent, and if a cross correlation has positive time, it means that site1 was before site2, the opposite is true if the correlation time is negative. The same principle applies with the predicted times in the wind module.
 
-For formatting the MASS data, there is a Jupyter Notebook Fuyan has.
+For formatting the MASS data, there is a Jupyter Notebook Fuyan has. NOTE: I am founding errors in that part so I have to review it, in the meanwhile you can ask me the corrects files for that vie email.
 
 ## Credits
   * The pydcf bby Damien Robertson used in the correlation module can be found [here](https://github.com/astronomerdamo/pydcf).
