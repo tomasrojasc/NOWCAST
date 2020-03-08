@@ -11,7 +11,7 @@ Here is a list with the links of all the repositories needed for this proyect
   * [wind module](https://github.com/tomasrojasc/wind-module-nowcast): This repository manages all the wind data of interest for the project by the [ECMWF](https://www.ecmwf.int/)
   * [time series module](https://github.com/tomasrojasc/time-series-module-nowcast): This module takes the csv files for the sites to inspect, and return a binary file for the latter viewing of the data.
   * [GUI module](https://github.com/tomasrojasc/gui-module-nowcast): This module takes all the data above and makes a GUI with [Bokeh](https://docs.bokeh.org/en/latest/index.html#)
-
+  * [PDF Module](https://github.com/tomasrojasc/PDF-module-nowcast): This module makes pdf for looking determined years by eye and see if there is somenthing interesting
 ## Important considerations
 For all the computations done in this modules, site1 and site2 should be consistent, and if a cross correlation has positive time, it means that site1 was before site2, the opposite is true if the correlation time is negative. The same principle applies with the predicted times in the wind module.
 
